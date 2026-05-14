@@ -44,3 +44,5 @@ nb-configuration.xml
 *.swp
 *.tileset.json
 .DS_Store
+rust_gltf_output/target
+rust_gltf_output/Cargo.lock
