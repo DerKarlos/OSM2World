@@ -3,7 +3,7 @@ name = "osm2world-gltf-rust"
 version = "0.1.0"
 edition = "2021"
 description = "Rust transcoding of OSM2World glTF output module"
-authors = ["OSM2World Contributors"]
+authors = ["OSM2World Contributors & Copilot & Karlos"]
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
